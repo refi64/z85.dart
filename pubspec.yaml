@@ -1,0 +1,9 @@
+name: z85
+version: 0.1.0
+description: A Z85 encoder and decoder
+author: Ryan Gonzalez <rymg19@gmail.com>
+homepage: https://github.com/kirbyfan64/z85.dart
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+dev_dependencies:
+  test: any
